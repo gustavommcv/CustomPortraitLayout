@@ -31,8 +31,6 @@ In the config.ini file you will find this section:
 
 You need to set the custom_layout to true and modify the modify the numeric values according to your resolution
 
-# . . .
-
 # CONTRIBUTING
 
 Once you've successfully created your config.ini, your contribution to this repository is highly valued. Feel free to share your personalized configuration, helping users with similar devices or resolutions benefit from your efforts. For more information on how to contribute, see [CONTRIBUTING.md](https://github.com/gustavommcv/CustomPortraitLayout/blob/main/CONTRIBUTING.md)
