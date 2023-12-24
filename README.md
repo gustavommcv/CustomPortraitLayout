@@ -1,7 +1,8 @@
 # Custom Portrait Layout for Citra Android
 Custom portrait layout for playing the Citra emulator on Android with a vertical phone controller
 
-![photo_2023-12-24_05-21-54](https://github.com/gustavommcv/CustomPortraitLayout/assets/88604190/b6b6b307-9397-4372-b7e3-58e59d3c3901)
+![photo_2023-12-24_05-21-54](https://github.com/gustavommcv/CustomPortraitLayout/assets/88604190/b6b6b307-9397-4372-b7e3-58e59d3c3901) ![image](https://github.com/gustavommcv/CustomPortraitLayout/assets/88604190/9a772d0b-83cf-4f64-8797-ea478d40bf86)
+
 
 # Step-by-Step Guide
 
